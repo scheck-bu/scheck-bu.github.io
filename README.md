@@ -5,6 +5,11 @@
 * Software Architecture
 * Data Analysis & Visualization
 
+**Computer Languages:**
+* SQL, PLSQL
+* C#, Python, Java, C++, R
+* HTML, XML, CSS
+  
 **Experience:**
 * **Astronics AES:** Test Engineer, Staff Software
 * **CRANE Aerospace:** Test Engineer
