@@ -1,5 +1,8 @@
 <h1 align="center">Garth Scheck</h1>
-   
+<p align="center">scheckg497@gmail.com</p>
+<p align="center">[www.linkedin.com/in/garth-scheck](https://www.linkedin.com/in/garth-scheck-5b9b9810)</p>
+
+
 **Skills:**
 * Electrical Test Automation
 * Software Architecture
