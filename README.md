@@ -17,7 +17,7 @@
   <li>C#, Python, Java, C++, R</li>
   <li>HTML, XML, CSS</li>
 </ul>
-  
+ 
 <h3>Experience:</h3>
 <ul>
   <li> <b>Astronics AES:</b> Test Engineer, Staff Software</li>
