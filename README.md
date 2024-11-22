@@ -2,7 +2,7 @@
 <p align="center">scheckg497@gmail.com</p>
 <p align="center"><a href="https://www.linkedin.com/in/garth-scheck-5b9b9810">Connect with me at LinkedIn</a></p>
 
-<br />
+<hr>
 
 <h3>Skills:</h3>
 <ul>
@@ -36,4 +36,5 @@
 <ol>
 <li><b>link to project</b></li>
 </ol>
----
+<hr>
+
