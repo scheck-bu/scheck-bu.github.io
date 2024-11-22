@@ -18,6 +18,7 @@
 **Education:**
 * **Masters in Data Science**, Bellevue University
 * **Bachelors in Computer Science**, Bellevue College
+* **Associates in Electrical Engineering Technology**, ITT Technical Institute
 
 **Contact Information:**
 * **email:** scheckg497@gmail.com
