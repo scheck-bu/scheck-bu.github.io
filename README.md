@@ -1,4 +1,4 @@
-<p align="center"> **Garth Scheck**</p>
+<p align="center"> <h1>Garth Scheck</h1></p>
    
 **Skills:**
 * Electrical Test Automation
