@@ -1,6 +1,6 @@
 <h1 align="center">Garth Scheck</h1>
 <p align="center">scheckg497@gmail.com</p>
-<p align="center"><a href="[www.linkedin.com/in/garth-scheck](https://www.linkedin.com/in/garth-scheck-5b9b9810)">Connect with me at LinkedIn</a></p>
+<a href="[www.linkedin.com/in/garth-scheck](https://www.linkedin.com/in/garth-scheck-5b9b9810)">Connect with me at LinkedIn</a>
 
 <br />
 <br />
