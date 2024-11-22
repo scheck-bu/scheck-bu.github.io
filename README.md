@@ -3,6 +3,7 @@
 <p align="center">[www.linkedin.com/in/garth-scheck](https://www.linkedin.com/in/garth-scheck-5b9b9810)</p>
 
 
+    
 **Skills:**
 * Electrical Test Automation
 * Software Architecture
@@ -22,10 +23,6 @@
 * **Masters in Data Science**, Bellevue University
 * **Bachelors in Computer Science**, Bellevue College
 * **Associates in Electrical Engineering Technology**, ITT Technical Institute
-
-**Contact Information:**
-* **email:** scheckg497@gmail.com
-* **LinkedIn:** [www.linkedin.com/in/garth-scheck](https://www.linkedin.com/in/garth-scheck-5b9b9810)
 
 **Personal Projects:**
 1. **link to project**
