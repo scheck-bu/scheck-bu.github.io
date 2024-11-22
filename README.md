@@ -1,20 +1,22 @@
 ## Garth Scheck
-
+   
 **Skills:**
+* Electrical Test Automation
 * Software Architecture
 * Data Analysis & Visualization
 
 **Experience:**
-* **Test Engineer- Staff Software (Astronics AES):** 
-* **Test Engineer (CRANE Aerospace):**
-
+* **Astronics AES:** Test Engineer, Staff Software
+* **CRANE Aerospace:** Test Engineer
+* **Interpoint:** Software Developer
+  
 **Education:**
 * **Masters in Data Science**, Bellevue University
 * **Bachelors in Computer Science**, Bellevue College
 
 **Contact Information:**
 * scheckg497@gmail.com
-* linked in address
+* [www.linkedin.com/in/garth-scheck](https://www.linkedin.com/in/garth-scheck-5b9b9810)
 
 **Personal Projects:**
 1. **link to project**
