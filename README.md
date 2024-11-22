@@ -1,4 +1,4 @@
-## Garth Scheck
+<p align="center"> Garth Scheck </p>
    
 **Skills:**
 * Electrical Test Automation
