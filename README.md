@@ -1,1 +1,1 @@
-# scheck-bu.github.io
+# Garth Scheck
