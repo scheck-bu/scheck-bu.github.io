@@ -34,7 +34,7 @@
 
 <h3>Personal Projects:</h3>
 <ol>
-<li><b>link to project</b></li>
+<li><b>Kia/Hyundai Thefts</b></li>
 </ol>
 <hr>
 
