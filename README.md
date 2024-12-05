@@ -34,7 +34,9 @@
 
 <h3>Personal Projects:</h3>
 <ol>
-<li><b>Kia/Hyundai Thefts</b></li>
+  <li><b>Kia/Hyundai Thefts</b></li>
+  <li><b>Weather Forecast</b></li>
+  <li><b>Nutrition</b></li>
 </ol>
 <hr>
 
