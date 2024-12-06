@@ -37,7 +37,7 @@
   <li><b>Kia/Hyundai Thefts</b></li>
   <li><b>Weather Forecast</b></li>
   <li><b>Nutrition Research</b></li>
-  <li><b>Dimentia Research</b></li>
+  <li><b>Dementia Research</b></li>
 </ol>
 <hr>
 
