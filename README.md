@@ -32,7 +32,7 @@
   <li> <b>Associates in Electrical Engineering Technology</b>, ITT Technical Institute</li>
 </ul>
 
-<h3>Personal Projects:</h3>
+<h3>Projects:</h3>
 <ol>
   <li><b>Kia/Hyundai Thefts</b></li>
   <li><b>Weather Forecast</b></li>
