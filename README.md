@@ -38,6 +38,8 @@
   <li><b>Weather Forecast</b></li>
   <li><b>Nutrition Research</b></li>
   <li><b>Dementia Research</b></li>
+  <li><b>Stock Forecasting</b></li>
+  <li><b>Dynamic Loading</b></li>
 </ol>
 <hr>
 
