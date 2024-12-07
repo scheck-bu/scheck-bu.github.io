@@ -1,4 +1,4 @@
-<body style="background: url('../docs/images/imageedit_1_4488719934.png')">
+<body style="background: url('docs/images/imageedit_1_4488719934.png')">
 
 <h1 align="center">Garth Scheck</h1>
 <p align="center">scheckg497@gmail.com</p>
