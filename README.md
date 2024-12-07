@@ -1,5 +1,11 @@
-
-![screenshot](docs/images/imageedit_1_4488719934.png)
+<style>
+    body {
+        background-image: url('docs/images/imageedit_1_4488719934.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+</style>
 
 <h1 align="center">Garth Scheck</h1>
 <p align="center">scheckg497@gmail.com</p>
